@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Guilherme Galvão de Souza</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Desenvolvedor Front-End</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilherme-galvao-souza&label=Profile%20views&color=0e75b6&style=flat" alt="guilherme-galvao-souza" /> </p>
 
