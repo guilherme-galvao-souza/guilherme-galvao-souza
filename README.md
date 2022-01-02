@@ -10,8 +10,8 @@
 <br>
   <h3 align="left"></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/guilherme-galvão-de-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:delayggz@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilherme-galvão-de-souza/" target="_blank"><img alt="imagem LinkedIn"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:delayggz@hotmail.com"><img alt ="imagem do Hotmail"src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  
 </div>
 <div style="display: inline_block"><br>
