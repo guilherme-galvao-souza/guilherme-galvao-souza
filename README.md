@@ -19,7 +19,7 @@
   <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Guilherme-MySQL" height="30" widht="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+  <img align="center" alt="Guilherme-MySQL" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
 </div>
 
 ![Snake animation](https://github.com/guilherme-galvao-souza/guilherme-galvao-souza/blob/output/github-contribution-grid-snake.svg)
