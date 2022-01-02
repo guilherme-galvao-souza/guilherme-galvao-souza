@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/guilherme-galvao-souza">
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=guilherme-galvao-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center "height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-galvao-souza&layout=compact&langs_count=7&theme=dracula"/>
+  <img  width="500em "height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-galvao-souza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilherme-galvao-souza&label=Profile%20views&color=0e75b6&style=flat" alt="guilherme-galvao-souza" /> </p>
