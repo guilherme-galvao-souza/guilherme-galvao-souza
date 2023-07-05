@@ -1,4 +1,3 @@
-## Hello! I'm Guilherme Souza!
 <img src='./assets/GithubProfile.png' alt='Carta de apresentação, contêm as seguintes informações, nome: Guilherme Souza, Profissão: Desenvolvedor Front-end, Tecnologias utilizadas: NodeJs, Git, React, Typescript'>
 
 **Hello! I'm Guilherme!**
