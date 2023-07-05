@@ -11,10 +11,10 @@
 
 **Languages and tools:**
 
-<img align="left" height="30" src="https://raw.githubusercontent.com/guilherme-galvao-souza/guilherme-galvao-souza/master/assets/javascriptIcon.svg">
-<img align="left" height="30" src="https://raw.githubusercontent.com/guilherme-galvao-souza/guilherme-galvao-souza/master/assets/typeScript.svg">
-<img align="left" height="30" src="https://raw.githubusercontent.com/guilherme-galvao-souza/guilherme-galvao-souza/master/assets/nodejsIcon.svg">
-<img align="left" height="30" src="https://raw.githubusercontent.com/guilherme-galvao-souza/guilherme-galvao-souza/master/assets/reactIcon.svg">
+<img title='Javascript' align="left" height="30" src="https://raw.githubusercontent.com/guilherme-galvao-souza/guilherme-galvao-souza/master/assets/javascriptIcon.svg">
+<img title='Typescript' align="left" height="30" src="https://raw.githubusercontent.com/guilherme-galvao-souza/guilherme-galvao-souza/master/assets/typeScript.svg">
+<img title='NodeJs' align="left" height="30" src="https://raw.githubusercontent.com/guilherme-galvao-souza/guilherme-galvao-souza/master/assets/nodejsIcon.svg">
+<img title='React' align="left" height="30" src="https://raw.githubusercontent.com/guilherme-galvao-souza/guilherme-galvao-souza/master/assets/reactIcon.svg">
 
 ![Snake animation](https://github.com/guilherme-galvao-souza/guilherme-galvao-souza/blob/output/github-contribution-grid-snake.svg)
 
