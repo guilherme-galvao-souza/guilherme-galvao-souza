@@ -3,7 +3,7 @@
 
 
 <img align="left" height="30" src="https://raw.githubusercontent.com/guilherme-galvao-souza/guilherme-galvao-souza/master/assets/javascriptIcon.svg">
-<img align="left" height="30" src="https://raw.githubusercontent.com/guilherme-galvao-souza/guilherme-galvao-souza/master/assets/typescriptIcon.svg">
+<img align="left" height="30" src="https://raw.githubusercontent.com/guilherme-galvao-souza/guilherme-galvao-souza/master/assets/typeScript.svg">
 <img align="left" height="30" src="https://raw.githubusercontent.com/guilherme-galvao-souza/guilherme-galvao-souza/master/assets/nodejsIcon.svg">
 <img align="left" height="30" src="https://raw.githubusercontent.com/guilherme-galvao-souza/guilherme-galvao-souza/master/assets/reactIcon.svg">
 
